@@ -15,7 +15,7 @@ class Car extends FourWheelers
   public void display()
   {
   System.out.println("Cars displayed");
-  //super.display();
+  super.display();
   }
  /* public void get(){
     System.out.println("Get Car");
